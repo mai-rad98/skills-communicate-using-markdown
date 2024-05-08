@@ -22,3 +22,11 @@ $ git checkout main
 
 # Rebase the new branch onto the main branch
 $ git rebase new-branch
+
+## Step 1: Add headers
+
+### Activity:
+
+- [x] Add a primary header to your document
+- [x] Add a secondary header to your document
+- [ ] Add a tertiary header to your document
