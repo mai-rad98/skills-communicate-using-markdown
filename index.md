@@ -11,17 +11,10 @@ _Added Image_
 # CODE BLOCKS
 
 
-# Create a new branch
-$ git checkout -b new-branch
-
-# Make some changes and commit them
-$ git commit -am "Made some changes"
-
-# Switch back to the main branch
-$ git checkout main
-
-# Rebase the new branch onto the main branch
-$ git rebase new-branch
+```
+$ git rebase
+Rebase the new branch onto the main branch
+```
 
 ## Step 1: Add headers
 
